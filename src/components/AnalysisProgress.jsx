@@ -58,7 +58,7 @@ const AnalysisProgress = ({ progressStates, isAnalyzing }) => {
         <div className="progress-footer">
           <div className="progress-spinner"></div>
           <p className="progress-note">
-            This process typically takes 2-3 minutes. Please don't close this window.
+            This process typically takes 5 to 20 minutes. Please don't close this window.
           </p>
         </div>
       </div>
