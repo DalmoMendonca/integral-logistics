@@ -1,0 +1,57 @@
+week_start,week_end,driver_id,vendor_treatment,culture_feedback,appreciation_rating,appreciation_reason
+2025-06-01,2025-06-07,D001,Average treatment from vendors.,Company culture seemed average this week.,6,
+2025-06-01,2025-06-07,D002,Average treatment from vendors.,"Neutral experience with colleagues, some ups and downs.",5,
+2025-06-01,2025-06-07,D003,Average treatment from vendors.,Company culture seemed average this week.,6,
+2025-06-01,2025-06-07,D004,"Neutral vendor experiences, nothing notable.","Neutral experience with colleagues, some ups and downs.",5,
+2025-06-08,2025-06-14,D001,"Some vendors were helpful, others not so much.",Company culture seemed average this week.,5,
+2025-06-08,2025-06-14,D002,"Neutral vendor experiences, nothing notable.",Company culture seemed average this week.,4,Lack of communication.
+2025-06-08,2025-06-14,D003,Average treatment from vendors.,No big positives or negatives observed.,6,
+2025-06-08,2025-06-14,D004,Average treatment from vendors.,"DBJ culture was fine, nothing stood out.",4,Didn't feel particularly valued.
+2025-06-15,2025-06-21,D001,Average treatment from vendors.,"Neutral experience with colleagues, some ups and downs.",4,Some issues not addressed.
+2025-06-15,2025-06-21,D002,"Mixed interactions with vendors, some good some bad.","Neutral experience with colleagues, some ups and downs.",6,
+2025-06-15,2025-06-21,D003,"Neutral vendor experiences, nothing notable.",Company culture seemed average this week.,6,
+2025-06-15,2025-06-21,D004,"Neutral vendor experiences, nothing notable.","DBJ culture was fine, nothing stood out.",6,
+2025-06-22,2025-06-28,D001,"Neutral vendor experiences, nothing notable.","DBJ culture was fine, nothing stood out.",6,
+2025-06-22,2025-06-28,D002,Average treatment from vendors.,"DBJ culture was fine, nothing stood out.",5,
+2025-06-22,2025-06-28,D003,Average treatment from vendors.,"Neutral experience with colleagues, some ups and downs.",6,
+2025-06-22,2025-06-28,D004,"Mixed interactions with vendors, some good some bad.",No big positives or negatives observed.,7,
+2025-06-29,2025-07-05,D001,Average treatment from vendors.,Company culture seemed average this week.,4,Didn't feel particularly valued.
+2025-06-29,2025-07-05,D002,"Some vendors were helpful, others not so much.","Neutral experience with colleagues, some ups and downs.",7,
+2025-06-29,2025-07-05,D003,"Neutral vendor experiences, nothing notable.",Company culture seemed average this week.,5,
+2025-06-29,2025-07-05,D004,"Neutral vendor experiences, nothing notable.",Company culture seemed average this week.,7,
+2025-07-06,2025-07-12,D001,"Neutral vendor experiences, nothing notable.","DBJ culture was fine, nothing stood out.",5,
+2025-07-06,2025-07-12,D002,"Neutral vendor experiences, nothing notable.","DBJ culture was fine, nothing stood out.",7,
+2025-07-06,2025-07-12,D003,"Mixed interactions with vendors, some good some bad.",No big positives or negatives observed.,6,
+2025-07-06,2025-07-12,D004,"Some vendors were helpful, others not so much.","Neutral experience with colleagues, some ups and downs.",5,
+2025-07-13,2025-07-19,D001,"Some vendors were helpful, others not so much.","DBJ culture was fine, nothing stood out.",6,
+2025-07-13,2025-07-19,D002,Average treatment from vendors.,"Neutral experience with colleagues, some ups and downs.",4,Didn't feel particularly valued.
+2025-07-13,2025-07-19,D003,"Some vendors were helpful, others not so much.","DBJ culture was fine, nothing stood out.",6,
+2025-07-13,2025-07-19,D004,Average treatment from vendors.,Company culture seemed average this week.,4,Some issues not addressed.
+2025-07-20,2025-07-26,D001,"Some vendors were helpful, others not so much.","Neutral experience with colleagues, some ups and downs.",5,
+2025-07-20,2025-07-26,D002,"Mixed interactions with vendors, some good some bad.","Neutral experience with colleagues, some ups and downs.",7,
+2025-07-20,2025-07-26,D003,Average treatment from vendors.,"DBJ culture was fine, nothing stood out.",6,
+2025-07-20,2025-07-26,D004,"Neutral vendor experiences, nothing notable.","Neutral experience with colleagues, some ups and downs.",6,
+2025-07-27,2025-08-02,D001,"Some vendors were helpful, others not so much.",Company culture seemed average this week.,6,
+2025-07-27,2025-08-02,D002,"Neutral vendor experiences, nothing notable.",No big positives or negatives observed.,4,Didn't feel particularly valued.
+2025-07-27,2025-08-02,D003,"Some vendors were helpful, others not so much.",No big positives or negatives observed.,5,
+2025-07-27,2025-08-02,D004,"Neutral vendor experiences, nothing notable.","DBJ culture was fine, nothing stood out.",6,
+2025-08-03,2025-08-09,D001,Average treatment from vendors.,"DBJ culture was fine, nothing stood out.",7,
+2025-08-03,2025-08-09,D002,"Some vendors were helpful, others not so much.",Company culture seemed average this week.,4,Some issues not addressed.
+2025-08-03,2025-08-09,D003,"Some vendors were helpful, others not so much.",No big positives or negatives observed.,7,
+2025-08-03,2025-08-09,D004,"Mixed interactions with vendors, some good some bad.",Company culture seemed average this week.,5,
+2025-08-10,2025-08-16,D001,"Some vendors were helpful, others not so much.","DBJ culture was fine, nothing stood out.",4,Didn't feel particularly valued.
+2025-08-10,2025-08-16,D002,"Mixed interactions with vendors, some good some bad.","DBJ culture was fine, nothing stood out.",5,
+2025-08-10,2025-08-16,D003,"Neutral vendor experiences, nothing notable.",No big positives or negatives observed.,4,Didn't feel particularly valued.
+2025-08-10,2025-08-16,D004,Average treatment from vendors.,"DBJ culture was fine, nothing stood out.",5,
+2025-08-17,2025-08-23,D001,"Mixed interactions with vendors, some good some bad.",No big positives or negatives observed.,6,
+2025-08-17,2025-08-23,D002,"Mixed interactions with vendors, some good some bad.","DBJ culture was fine, nothing stood out.",4,Didn't feel particularly valued.
+2025-08-17,2025-08-23,D003,"Neutral vendor experiences, nothing notable.",Company culture seemed average this week.,4,Some issues not addressed.
+2025-08-17,2025-08-23,D004,"Neutral vendor experiences, nothing notable.",Company culture seemed average this week.,7,
+2025-08-24,2025-08-30,D001,Average treatment from vendors.,No big positives or negatives observed.,7,
+2025-08-24,2025-08-30,D002,Average treatment from vendors.,Company culture seemed average this week.,4,Lack of communication.
+2025-08-24,2025-08-30,D003,"Mixed interactions with vendors, some good some bad.","DBJ culture was fine, nothing stood out.",4,Some issues not addressed.
+2025-08-24,2025-08-30,D004,"Mixed interactions with vendors, some good some bad.","DBJ culture was fine, nothing stood out.",6,
+2025-08-31,2025-08-31,D001,"Mixed interactions with vendors, some good some bad.",Company culture seemed average this week.,6,
+2025-08-31,2025-08-31,D002,"Mixed interactions with vendors, some good some bad.",Company culture seemed average this week.,7,
+2025-08-31,2025-08-31,D003,Average treatment from vendors.,No big positives or negatives observed.,4,Lack of communication.
+2025-08-31,2025-08-31,D004,"Neutral vendor experiences, nothing notable.","Neutral experience with colleagues, some ups and downs.",5,

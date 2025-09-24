@@ -1,0 +1,8 @@
+date,sleep_hours,sleep_quality,start_mood,end_mood,notes
+2024-01-01,8,good,neutral,positive,Good night's sleep
+2024-01-02,7,average,neutral,neutral,Normal day
+2024-01-03,6,poor,tired,frustrated,Didn't sleep well
+2024-01-04,9,excellent,positive,positive,Great recovery day
+2024-01-05,7,good,neutral,positive,Consistent sleep
+2024-01-06,8,good,positive,positive,Feeling energized
+2024-01-07,6,poor,anxious,tired,Stress affected sleep

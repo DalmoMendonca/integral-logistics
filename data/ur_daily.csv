@@ -1,0 +1,8 @@
+date,hours_on_road,break_time,loads_delivered,schedule_adherence,safety_incidents,notes
+2024-01-01,10,2,12,95,0,Excellent day
+2024-01-02,9,1.5,10,88,0,Good productivity
+2024-01-03,11,2.5,14,92,1,Minor delay but recovered
+2024-01-04,8,1,9,98,0,Light day, high efficiency
+2024-01-05,10,2,11,85,0,Steady performance
+2024-01-06,9.5,2,12,90,0,Consistent results
+2024-01-07,10.5,2,13,87,0,High volume day
