@@ -1,0 +1,369 @@
+date,driver_id,hours_sleep,sleep_quality,start_mood,end_mood
+2025-06-01,D001,6.8,"Not sure, felt half rested half tired.",Fine,Content
+2025-06-01,D002,7.5,"Sleep was okay, nothing special.",Neutral,Stressed
+2025-06-01,D003,8.2,"Sleep was okay, nothing special.",Indifferent,Anxious
+2025-06-01,D004,7.5,"Sleep was okay, nothing special.",Indifferent,Anxious
+2025-06-02,D001,4.7,"Not sure, felt half rested half tired.",Neutral,Fine
+2025-06-02,D002,5.2,"Some dreams and wake-ups, neutral overall.",Meh,Indifferent
+2025-06-02,D003,5.9,"Not sure, felt half rested half tired.",Meh,Motivated
+2025-06-02,D004,6.5,"Average sleep, can't complain.",Indifferent,Tired
+2025-06-03,D001,7.0,"Not sure, felt half rested half tired.",Meh,Content
+2025-06-03,D002,5.8,"Some dreams and wake-ups, neutral overall.",Fine,Tired
+2025-06-03,D003,6.7,"Not sure, felt half rested half tired.",Indifferent,Irritable
+2025-06-03,D004,5.7,"Sleep was okay, nothing special.",Indifferent,Tired
+2025-06-04,D001,5.9,"Some dreams and wake-ups, neutral overall.",Fine,Meh
+2025-06-04,D002,5.1,"Some dreams and wake-ups, neutral overall.",Fine,Content
+2025-06-04,D003,5.6,"Some dreams and wake-ups, neutral overall.",Indifferent,Happy
+2025-06-04,D004,5.1,"Not sure, felt half rested half tired.",Indifferent,Meh
+2025-06-05,D001,5.5,"Not sure, felt half rested half tired.",Indifferent,Irritable
+2025-06-05,D002,7.6,"Average sleep, can't complain.",Fine,Indifferent
+2025-06-05,D003,5.6,"Some dreams and wake-ups, neutral overall.",Indifferent,Stressed
+2025-06-05,D004,9.1,"Some dreams and wake-ups, neutral overall.",Fine,Stressed
+2025-06-06,D001,7.0,"Some dreams and wake-ups, neutral overall.",Fine,Stressed
+2025-06-06,D002,6.7,"Average sleep, can't complain.",Fine,Meh
+2025-06-06,D003,5.6,"Some dreams and wake-ups, neutral overall.",Indifferent,Anxious
+2025-06-06,D004,7.2,"Average sleep, can't complain.",Fine,Stressed
+2025-06-07,D001,5.9,"Sleep was okay, nothing special.",Meh,Meh
+2025-06-07,D002,6.6,"Some dreams and wake-ups, neutral overall.",Neutral,Fine
+2025-06-07,D003,9.1,"Not sure, felt half rested half tired.",Meh,Irritable
+2025-06-07,D004,6.4,"Average sleep, can't complain.",Neutral,Anxious
+2025-06-08,D001,7.6,"Not sure, felt half rested half tired.",Meh,Indifferent
+2025-06-08,D002,5.8,"Average sleep, can't complain.",Meh,Tired
+2025-06-08,D003,6.5,"Some dreams and wake-ups, neutral overall.",Fine,Anxious
+2025-06-08,D004,8.3,"Sleep was okay, nothing special.",Fine,Meh
+2025-06-09,D001,5.9,"Not sure, felt half rested half tired.",Fine,Neutral
+2025-06-09,D002,8.3,"Not sure, felt half rested half tired.",Neutral,Stressed
+2025-06-09,D003,7.2,"Sleep was okay, nothing special.",Neutral,Energetic
+2025-06-09,D004,5.9,"Average sleep, can't complain.",Meh,Indifferent
+2025-06-10,D001,7.1,"Sleep was okay, nothing special.",Fine,Stressed
+2025-06-10,D002,7.5,"Not sure, felt half rested half tired.",Neutral,Happy
+2025-06-10,D003,7.1,"Sleep was okay, nothing special.",Indifferent,Energetic
+2025-06-10,D004,4.9,"Some dreams and wake-ups, neutral overall.",Fine,Stressed
+2025-06-11,D001,5.8,"Not sure, felt half rested half tired.",Fine,Indifferent
+2025-06-11,D002,6.3,"Some dreams and wake-ups, neutral overall.",Indifferent,Happy
+2025-06-11,D003,6.4,"Not sure, felt half rested half tired.",Neutral,Tired
+2025-06-11,D004,7.1,"Not sure, felt half rested half tired.",Neutral,Content
+2025-06-12,D001,6.7,"Some dreams and wake-ups, neutral overall.",Indifferent,Tired
+2025-06-12,D002,5.2,"Average sleep, can't complain.",Fine,Energetic
+2025-06-12,D003,6.9,"Not sure, felt half rested half tired.",Indifferent,Irritable
+2025-06-12,D004,7.1,"Sleep was okay, nothing special.",Fine,Fine
+2025-06-13,D001,7.1,"Not sure, felt half rested half tired.",Indifferent,Content
+2025-06-13,D002,7.6,"Average sleep, can't complain.",Neutral,Fine
+2025-06-13,D003,7.3,"Sleep was okay, nothing special.",Neutral,Stressed
+2025-06-13,D004,7.0,"Sleep was okay, nothing special.",Meh,Fine
+2025-06-14,D001,6.4,"Some dreams and wake-ups, neutral overall.",Meh,Neutral
+2025-06-14,D002,4.8,"Some dreams and wake-ups, neutral overall.",Indifferent,Neutral
+2025-06-14,D003,6.9,"Not sure, felt half rested half tired.",Fine,Energetic
+2025-06-14,D004,6.7,"Not sure, felt half rested half tired.",Meh,Motivated
+2025-06-15,D001,6.8,"Not sure, felt half rested half tired.",Fine,Happy
+2025-06-15,D002,5.2,"Some dreams and wake-ups, neutral overall.",Fine,Meh
+2025-06-15,D003,5.4,"Not sure, felt half rested half tired.",Fine,Happy
+2025-06-15,D004,7.6,"Some dreams and wake-ups, neutral overall.",Meh,Tired
+2025-06-16,D001,6.5,"Sleep was okay, nothing special.",Neutral,Neutral
+2025-06-16,D002,7.2,"Some dreams and wake-ups, neutral overall.",Indifferent,Stressed
+2025-06-16,D003,6.5,"Some dreams and wake-ups, neutral overall.",Fine,Content
+2025-06-16,D004,6.5,"Average sleep, can't complain.",Fine,Neutral
+2025-06-17,D001,7.4,"Average sleep, can't complain.",Fine,Meh
+2025-06-17,D002,6.0,"Not sure, felt half rested half tired.",Neutral,Stressed
+2025-06-17,D003,6.6,"Average sleep, can't complain.",Fine,Meh
+2025-06-17,D004,6.0,"Some dreams and wake-ups, neutral overall.",Indifferent,Meh
+2025-06-18,D001,6.1,"Sleep was okay, nothing special.",Meh,Stressed
+2025-06-18,D002,6.2,"Sleep was okay, nothing special.",Meh,Tired
+2025-06-18,D003,6.7,"Sleep was okay, nothing special.",Meh,Stressed
+2025-06-18,D004,6.0,"Some dreams and wake-ups, neutral overall.",Fine,Anxious
+2025-06-19,D001,7.8,"Some dreams and wake-ups, neutral overall.",Fine,Anxious
+2025-06-19,D002,5.6,"Some dreams and wake-ups, neutral overall.",Fine,Indifferent
+2025-06-19,D003,6.3,"Some dreams and wake-ups, neutral overall.",Meh,Irritable
+2025-06-19,D004,6.1,"Average sleep, can't complain.",Meh,Motivated
+2025-06-20,D001,7.9,"Average sleep, can't complain.",Fine,Meh
+2025-06-20,D002,6.7,"Sleep was okay, nothing special.",Indifferent,Happy
+2025-06-20,D003,7.5,"Not sure, felt half rested half tired.",Meh,Energetic
+2025-06-20,D004,5.0,"Not sure, felt half rested half tired.",Fine,Anxious
+2025-06-21,D001,6.8,"Not sure, felt half rested half tired.",Fine,Fine
+2025-06-21,D002,7.4,"Not sure, felt half rested half tired.",Fine,Motivated
+2025-06-21,D003,6.6,"Sleep was okay, nothing special.",Neutral,Energetic
+2025-06-21,D004,7.6,"Average sleep, can't complain.",Neutral,Tired
+2025-06-22,D001,6.0,"Some dreams and wake-ups, neutral overall.",Indifferent,Motivated
+2025-06-22,D002,7.9,"Not sure, felt half rested half tired.",Fine,Neutral
+2025-06-22,D003,8.8,"Sleep was okay, nothing special.",Neutral,Tired
+2025-06-22,D004,6.1,"Average sleep, can't complain.",Neutral,Fine
+2025-06-23,D001,6.1,"Not sure, felt half rested half tired.",Meh,Anxious
+2025-06-23,D002,8.0,"Sleep was okay, nothing special.",Meh,Tired
+2025-06-23,D003,8.1,"Sleep was okay, nothing special.",Fine,Tired
+2025-06-23,D004,6.0,"Average sleep, can't complain.",Neutral,Irritable
+2025-06-24,D001,6.1,"Sleep was okay, nothing special.",Meh,Energetic
+2025-06-24,D002,6.2,"Average sleep, can't complain.",Fine,Motivated
+2025-06-24,D003,5.2,"Some dreams and wake-ups, neutral overall.",Meh,Energetic
+2025-06-24,D004,5.6,"Sleep was okay, nothing special.",Indifferent,Neutral
+2025-06-25,D001,5.5,"Average sleep, can't complain.",Meh,Stressed
+2025-06-25,D002,5.7,"Average sleep, can't complain.",Indifferent,Meh
+2025-06-25,D003,6.5,"Average sleep, can't complain.",Neutral,Motivated
+2025-06-25,D004,6.7,"Not sure, felt half rested half tired.",Neutral,Tired
+2025-06-26,D001,8.1,"Some dreams and wake-ups, neutral overall.",Meh,Energetic
+2025-06-26,D002,5.5,"Some dreams and wake-ups, neutral overall.",Indifferent,Energetic
+2025-06-26,D003,7.5,"Not sure, felt half rested half tired.",Fine,Motivated
+2025-06-26,D004,6.3,"Average sleep, can't complain.",Fine,Anxious
+2025-06-27,D001,6.5,"Not sure, felt half rested half tired.",Neutral,Indifferent
+2025-06-27,D002,7.2,"Sleep was okay, nothing special.",Fine,Neutral
+2025-06-27,D003,5.4,"Average sleep, can't complain.",Indifferent,Irritable
+2025-06-27,D004,6.9,"Not sure, felt half rested half tired.",Indifferent,Meh
+2025-06-28,D001,6.7,"Sleep was okay, nothing special.",Neutral,Fine
+2025-06-28,D002,7.0,"Not sure, felt half rested half tired.",Indifferent,Content
+2025-06-28,D003,6.8,"Not sure, felt half rested half tired.",Meh,Anxious
+2025-06-28,D004,9.0,"Some dreams and wake-ups, neutral overall.",Fine,Tired
+2025-06-29,D001,5.9,"Average sleep, can't complain.",Indifferent,Stressed
+2025-06-29,D002,6.0,"Some dreams and wake-ups, neutral overall.",Fine,Stressed
+2025-06-29,D003,5.9,"Sleep was okay, nothing special.",Neutral,Content
+2025-06-29,D004,5.9,"Not sure, felt half rested half tired.",Neutral,Content
+2025-06-30,D001,5.9,"Some dreams and wake-ups, neutral overall.",Fine,Irritable
+2025-06-30,D002,7.7,"Sleep was okay, nothing special.",Fine,Energetic
+2025-06-30,D003,7.9,"Some dreams and wake-ups, neutral overall.",Indifferent,Motivated
+2025-06-30,D004,5.9,"Average sleep, can't complain.",Neutral,Indifferent
+2025-07-01,D001,5.7,"Average sleep, can't complain.",Indifferent,Content
+2025-07-01,D002,7.0,"Average sleep, can't complain.",Meh,Happy
+2025-07-01,D003,5.9,"Not sure, felt half rested half tired.",Indifferent,Fine
+2025-07-01,D004,7.1,"Some dreams and wake-ups, neutral overall.",Fine,Indifferent
+2025-07-02,D001,6.7,"Sleep was okay, nothing special.",Neutral,Happy
+2025-07-02,D002,5.0,"Some dreams and wake-ups, neutral overall.",Fine,Content
+2025-07-02,D003,8.0,"Some dreams and wake-ups, neutral overall.",Meh,Neutral
+2025-07-02,D004,8.3,"Not sure, felt half rested half tired.",Neutral,Happy
+2025-07-03,D001,5.9,"Average sleep, can't complain.",Neutral,Anxious
+2025-07-03,D002,6.1,"Some dreams and wake-ups, neutral overall.",Fine,Content
+2025-07-03,D003,6.8,"Some dreams and wake-ups, neutral overall.",Fine,Content
+2025-07-03,D004,6.8,"Sleep was okay, nothing special.",Neutral,Stressed
+2025-07-04,D001,7.2,"Average sleep, can't complain.",Indifferent,Motivated
+2025-07-04,D002,8.5,"Not sure, felt half rested half tired.",Meh,Indifferent
+2025-07-04,D003,6.3,"Some dreams and wake-ups, neutral overall.",Neutral,Neutral
+2025-07-04,D004,5.7,"Sleep was okay, nothing special.",Meh,Irritable
+2025-07-05,D001,5.1,"Average sleep, can't complain.",Meh,Indifferent
+2025-07-05,D002,5.8,"Some dreams and wake-ups, neutral overall.",Fine,Meh
+2025-07-05,D003,6.5,"Not sure, felt half rested half tired.",Meh,Content
+2025-07-05,D004,8.3,"Sleep was okay, nothing special.",Meh,Content
+2025-07-06,D001,6.0,"Not sure, felt half rested half tired.",Indifferent,Anxious
+2025-07-06,D002,6.7,"Average sleep, can't complain.",Meh,Energetic
+2025-07-06,D003,6.5,"Average sleep, can't complain.",Neutral,Energetic
+2025-07-06,D004,7.7,"Average sleep, can't complain.",Neutral,Indifferent
+2025-07-07,D001,9.0,"Average sleep, can't complain.",Meh,Neutral
+2025-07-07,D002,6.0,"Some dreams and wake-ups, neutral overall.",Fine,Tired
+2025-07-07,D003,6.0,"Sleep was okay, nothing special.",Meh,Irritable
+2025-07-07,D004,7.5,"Not sure, felt half rested half tired.",Neutral,Energetic
+2025-07-08,D001,7.2,"Not sure, felt half rested half tired.",Neutral,Neutral
+2025-07-08,D002,8.3,"Sleep was okay, nothing special.",Indifferent,Stressed
+2025-07-08,D003,7.1,"Some dreams and wake-ups, neutral overall.",Fine,Meh
+2025-07-08,D004,6.1,"Not sure, felt half rested half tired.",Indifferent,Neutral
+2025-07-09,D001,7.1,"Some dreams and wake-ups, neutral overall.",Fine,Content
+2025-07-09,D002,7.6,"Sleep was okay, nothing special.",Neutral,Happy
+2025-07-09,D003,7.3,"Average sleep, can't complain.",Meh,Happy
+2025-07-09,D004,7.0,"Sleep was okay, nothing special.",Fine,Neutral
+2025-07-10,D001,7.6,"Average sleep, can't complain.",Fine,Anxious
+2025-07-10,D002,7.7,"Not sure, felt half rested half tired.",Neutral,Indifferent
+2025-07-10,D003,7.9,"Some dreams and wake-ups, neutral overall.",Indifferent,Content
+2025-07-10,D004,7.1,"Average sleep, can't complain.",Neutral,Neutral
+2025-07-11,D001,6.3,"Some dreams and wake-ups, neutral overall.",Meh,Neutral
+2025-07-11,D002,6.6,"Average sleep, can't complain.",Fine,Meh
+2025-07-11,D003,7.7,"Sleep was okay, nothing special.",Indifferent,Fine
+2025-07-11,D004,5.7,"Not sure, felt half rested half tired.",Meh,Happy
+2025-07-12,D001,6.9,"Some dreams and wake-ups, neutral overall.",Neutral,Anxious
+2025-07-12,D002,6.1,"Sleep was okay, nothing special.",Fine,Meh
+2025-07-12,D003,6.5,"Sleep was okay, nothing special.",Indifferent,Indifferent
+2025-07-12,D004,7.8,"Some dreams and wake-ups, neutral overall.",Neutral,Happy
+2025-07-13,D001,6.7,"Some dreams and wake-ups, neutral overall.",Neutral,Motivated
+2025-07-13,D002,6.5,"Not sure, felt half rested half tired.",Indifferent,Neutral
+2025-07-13,D003,5.1,"Average sleep, can't complain.",Meh,Stressed
+2025-07-13,D004,7.2,"Some dreams and wake-ups, neutral overall.",Indifferent,Fine
+2025-07-14,D001,7.1,"Sleep was okay, nothing special.",Neutral,Stressed
+2025-07-14,D002,8.7,"Not sure, felt half rested half tired.",Indifferent,Neutral
+2025-07-14,D003,6.2,"Sleep was okay, nothing special.",Indifferent,Fine
+2025-07-14,D004,6.7,"Sleep was okay, nothing special.",Fine,Irritable
+2025-07-15,D001,6.7,"Average sleep, can't complain.",Neutral,Irritable
+2025-07-15,D002,8.1,"Some dreams and wake-ups, neutral overall.",Indifferent,Motivated
+2025-07-15,D003,6.4,"Average sleep, can't complain.",Neutral,Meh
+2025-07-15,D004,6.8,"Sleep was okay, nothing special.",Meh,Fine
+2025-07-16,D001,7.1,"Sleep was okay, nothing special.",Neutral,Happy
+2025-07-16,D002,6.7,"Some dreams and wake-ups, neutral overall.",Neutral,Irritable
+2025-07-16,D003,6.1,"Average sleep, can't complain.",Fine,Motivated
+2025-07-16,D004,6.7,"Some dreams and wake-ups, neutral overall.",Neutral,Neutral
+2025-07-17,D001,7.6,"Not sure, felt half rested half tired.",Meh,Stressed
+2025-07-17,D002,5.5,"Some dreams and wake-ups, neutral overall.",Fine,Fine
+2025-07-17,D003,6.6,"Average sleep, can't complain.",Indifferent,Content
+2025-07-17,D004,5.8,"Average sleep, can't complain.",Neutral,Neutral
+2025-07-18,D001,7.7,"Sleep was okay, nothing special.",Meh,Energetic
+2025-07-18,D002,5.0,"Sleep was okay, nothing special.",Fine,Content
+2025-07-18,D003,5.9,"Not sure, felt half rested half tired.",Indifferent,Tired
+2025-07-18,D004,6.9,"Average sleep, can't complain.",Neutral,Neutral
+2025-07-19,D001,8.1,"Not sure, felt half rested half tired.",Neutral,Stressed
+2025-07-19,D002,6.4,"Some dreams and wake-ups, neutral overall.",Indifferent,Meh
+2025-07-19,D003,5.9,"Average sleep, can't complain.",Meh,Irritable
+2025-07-19,D004,8.4,"Average sleep, can't complain.",Fine,Energetic
+2025-07-20,D001,5.1,"Some dreams and wake-ups, neutral overall.",Meh,Happy
+2025-07-20,D002,4.3,"Not sure, felt half rested half tired.",Neutral,Energetic
+2025-07-20,D003,6.9,"Average sleep, can't complain.",Neutral,Stressed
+2025-07-20,D004,6.0,"Sleep was okay, nothing special.",Fine,Fine
+2025-07-21,D001,5.5,"Average sleep, can't complain.",Neutral,Energetic
+2025-07-21,D002,7.2,"Some dreams and wake-ups, neutral overall.",Fine,Irritable
+2025-07-21,D003,6.7,"Sleep was okay, nothing special.",Meh,Fine
+2025-07-21,D004,5.9,"Average sleep, can't complain.",Neutral,Happy
+2025-07-22,D001,5.2,"Some dreams and wake-ups, neutral overall.",Fine,Fine
+2025-07-22,D002,7.4,"Average sleep, can't complain.",Fine,Fine
+2025-07-22,D003,7.2,"Sleep was okay, nothing special.",Neutral,Neutral
+2025-07-22,D004,6.4,"Some dreams and wake-ups, neutral overall.",Fine,Content
+2025-07-23,D001,8.3,"Sleep was okay, nothing special.",Fine,Indifferent
+2025-07-23,D002,5.4,"Some dreams and wake-ups, neutral overall.",Meh,Tired
+2025-07-23,D003,5.0,"Average sleep, can't complain.",Indifferent,Anxious
+2025-07-23,D004,5.8,"Average sleep, can't complain.",Indifferent,Irritable
+2025-07-24,D001,6.5,"Average sleep, can't complain.",Meh,Content
+2025-07-24,D002,6.7,"Some dreams and wake-ups, neutral overall.",Meh,Meh
+2025-07-24,D003,6.3,"Sleep was okay, nothing special.",Meh,Content
+2025-07-24,D004,6.9,"Some dreams and wake-ups, neutral overall.",Fine,Irritable
+2025-07-25,D001,5.2,"Average sleep, can't complain.",Fine,Content
+2025-07-25,D002,7.9,"Average sleep, can't complain.",Meh,Irritable
+2025-07-25,D003,6.4,"Average sleep, can't complain.",Fine,Tired
+2025-07-25,D004,7.6,"Sleep was okay, nothing special.",Neutral,Motivated
+2025-07-26,D001,6.8,"Average sleep, can't complain.",Neutral,Energetic
+2025-07-26,D002,7.0,"Average sleep, can't complain.",Meh,Content
+2025-07-26,D003,7.1,"Some dreams and wake-ups, neutral overall.",Indifferent,Anxious
+2025-07-26,D004,6.9,"Sleep was okay, nothing special.",Indifferent,Tired
+2025-07-27,D001,7.1,"Some dreams and wake-ups, neutral overall.",Neutral,Anxious
+2025-07-27,D002,7.8,"Not sure, felt half rested half tired.",Meh,Content
+2025-07-27,D003,6.7,"Not sure, felt half rested half tired.",Neutral,Motivated
+2025-07-27,D004,7.2,"Sleep was okay, nothing special.",Neutral,Happy
+2025-07-28,D001,6.4,"Some dreams and wake-ups, neutral overall.",Meh,Energetic
+2025-07-28,D002,7.9,"Not sure, felt half rested half tired.",Indifferent,Indifferent
+2025-07-28,D003,5.8,"Sleep was okay, nothing special.",Indifferent,Content
+2025-07-28,D004,8.3,"Sleep was okay, nothing special.",Neutral,Energetic
+2025-07-29,D001,6.5,"Not sure, felt half rested half tired.",Meh,Content
+2025-07-29,D002,5.1,"Average sleep, can't complain.",Neutral,Happy
+2025-07-29,D003,6.6,"Not sure, felt half rested half tired.",Neutral,Motivated
+2025-07-29,D004,5.8,"Not sure, felt half rested half tired.",Fine,Irritable
+2025-07-30,D001,7.3,"Sleep was okay, nothing special.",Fine,Indifferent
+2025-07-30,D002,5.8,"Not sure, felt half rested half tired.",Meh,Stressed
+2025-07-30,D003,6.1,"Some dreams and wake-ups, neutral overall.",Meh,Tired
+2025-07-30,D004,4.6,"Average sleep, can't complain.",Fine,Motivated
+2025-07-31,D001,6.0,"Sleep was okay, nothing special.",Meh,Indifferent
+2025-07-31,D002,4.1,"Average sleep, can't complain.",Fine,Anxious
+2025-07-31,D003,4.9,"Not sure, felt half rested half tired.",Neutral,Content
+2025-07-31,D004,7.3,"Average sleep, can't complain.",Fine,Motivated
+2025-08-01,D001,7.3,"Not sure, felt half rested half tired.",Meh,Indifferent
+2025-08-01,D002,6.9,"Some dreams and wake-ups, neutral overall.",Neutral,Anxious
+2025-08-01,D003,5.5,"Average sleep, can't complain.",Fine,Neutral
+2025-08-01,D004,6.5,"Not sure, felt half rested half tired.",Indifferent,Meh
+2025-08-02,D001,6.5,"Average sleep, can't complain.",Fine,Tired
+2025-08-02,D002,5.3,"Some dreams and wake-ups, neutral overall.",Neutral,Stressed
+2025-08-02,D003,8.0,"Some dreams and wake-ups, neutral overall.",Neutral,Tired
+2025-08-02,D004,7.4,"Sleep was okay, nothing special.",Fine,Neutral
+2025-08-03,D001,6.3,"Average sleep, can't complain.",Meh,Motivated
+2025-08-03,D002,6.5,"Sleep was okay, nothing special.",Meh,Indifferent
+2025-08-03,D003,6.7,"Some dreams and wake-ups, neutral overall.",Indifferent,Neutral
+2025-08-03,D004,4.5,"Sleep was okay, nothing special.",Meh,Meh
+2025-08-04,D001,6.3,"Not sure, felt half rested half tired.",Indifferent,Motivated
+2025-08-04,D002,5.8,"Some dreams and wake-ups, neutral overall.",Meh,Meh
+2025-08-04,D003,5.5,"Average sleep, can't complain.",Indifferent,Meh
+2025-08-04,D004,6.2,"Sleep was okay, nothing special.",Indifferent,Meh
+2025-08-05,D001,8.3,"Some dreams and wake-ups, neutral overall.",Meh,Irritable
+2025-08-05,D002,7.1,"Average sleep, can't complain.",Meh,Irritable
+2025-08-05,D003,5.9,"Sleep was okay, nothing special.",Neutral,Happy
+2025-08-05,D004,7.1,"Some dreams and wake-ups, neutral overall.",Meh,Happy
+2025-08-06,D001,7.9,"Not sure, felt half rested half tired.",Neutral,Stressed
+2025-08-06,D002,7.4,"Some dreams and wake-ups, neutral overall.",Meh,Stressed
+2025-08-06,D003,6.6,"Some dreams and wake-ups, neutral overall.",Indifferent,Happy
+2025-08-06,D004,5.9,"Sleep was okay, nothing special.",Meh,Meh
+2025-08-07,D001,7.2,"Some dreams and wake-ups, neutral overall.",Neutral,Neutral
+2025-08-07,D002,6.9,"Average sleep, can't complain.",Neutral,Stressed
+2025-08-07,D003,7.4,"Not sure, felt half rested half tired.",Neutral,Stressed
+2025-08-07,D004,7.1,"Average sleep, can't complain.",Indifferent,Motivated
+2025-08-08,D001,7.5,"Some dreams and wake-ups, neutral overall.",Fine,Indifferent
+2025-08-08,D002,6.0,"Not sure, felt half rested half tired.",Indifferent,Motivated
+2025-08-08,D003,7.8,"Average sleep, can't complain.",Meh,Indifferent
+2025-08-08,D004,6.7,"Some dreams and wake-ups, neutral overall.",Fine,Tired
+2025-08-09,D001,8.6,"Average sleep, can't complain.",Meh,Motivated
+2025-08-09,D002,5.8,"Sleep was okay, nothing special.",Fine,Meh
+2025-08-09,D003,8.2,"Sleep was okay, nothing special.",Meh,Meh
+2025-08-09,D004,6.7,"Average sleep, can't complain.",Meh,Indifferent
+2025-08-10,D001,5.8,"Sleep was okay, nothing special.",Fine,Motivated
+2025-08-10,D002,6.0,"Average sleep, can't complain.",Neutral,Energetic
+2025-08-10,D003,6.2,"Average sleep, can't complain.",Indifferent,Motivated
+2025-08-10,D004,6.9,"Sleep was okay, nothing special.",Indifferent,Irritable
+2025-08-11,D001,7.0,"Sleep was okay, nothing special.",Indifferent,Energetic
+2025-08-11,D002,5.9,"Some dreams and wake-ups, neutral overall.",Neutral,Stressed
+2025-08-11,D003,6.5,"Average sleep, can't complain.",Neutral,Fine
+2025-08-11,D004,8.6,"Sleep was okay, nothing special.",Neutral,Anxious
+2025-08-12,D001,8.2,"Not sure, felt half rested half tired.",Fine,Motivated
+2025-08-12,D002,6.9,"Not sure, felt half rested half tired.",Fine,Anxious
+2025-08-12,D003,6.5,"Average sleep, can't complain.",Fine,Content
+2025-08-12,D004,6.6,"Not sure, felt half rested half tired.",Meh,Motivated
+2025-08-13,D001,7.1,"Not sure, felt half rested half tired.",Neutral,Happy
+2025-08-13,D002,5.5,"Average sleep, can't complain.",Neutral,Stressed
+2025-08-13,D003,6.2,"Average sleep, can't complain.",Neutral,Content
+2025-08-13,D004,4.8,"Average sleep, can't complain.",Meh,Anxious
+2025-08-14,D001,6.9,"Some dreams and wake-ups, neutral overall.",Neutral,Neutral
+2025-08-14,D002,7.1,"Sleep was okay, nothing special.",Indifferent,Meh
+2025-08-14,D003,6.0,"Not sure, felt half rested half tired.",Neutral,Anxious
+2025-08-14,D004,8.1,"Some dreams and wake-ups, neutral overall.",Fine,Motivated
+2025-08-15,D001,5.3,"Sleep was okay, nothing special.",Neutral,Stressed
+2025-08-15,D002,5.0,"Some dreams and wake-ups, neutral overall.",Meh,Anxious
+2025-08-15,D003,6.7,"Average sleep, can't complain.",Indifferent,Tired
+2025-08-15,D004,7.5,"Some dreams and wake-ups, neutral overall.",Neutral,Happy
+2025-08-16,D001,8.2,"Not sure, felt half rested half tired.",Fine,Motivated
+2025-08-16,D002,6.0,"Sleep was okay, nothing special.",Indifferent,Happy
+2025-08-16,D003,7.6,"Not sure, felt half rested half tired.",Neutral,Tired
+2025-08-16,D004,6.5,"Not sure, felt half rested half tired.",Meh,Content
+2025-08-17,D001,6.3,"Sleep was okay, nothing special.",Meh,Motivated
+2025-08-17,D002,7.4,"Average sleep, can't complain.",Neutral,Irritable
+2025-08-17,D003,7.2,"Sleep was okay, nothing special.",Indifferent,Anxious
+2025-08-17,D004,4.9,"Not sure, felt half rested half tired.",Fine,Indifferent
+2025-08-18,D001,8.0,"Average sleep, can't complain.",Neutral,Indifferent
+2025-08-18,D002,7.9,"Not sure, felt half rested half tired.",Meh,Stressed
+2025-08-18,D003,5.9,"Not sure, felt half rested half tired.",Indifferent,Motivated
+2025-08-18,D004,6.9,"Not sure, felt half rested half tired.",Neutral,Tired
+2025-08-19,D001,7.0,"Not sure, felt half rested half tired.",Fine,Tired
+2025-08-19,D002,6.8,"Some dreams and wake-ups, neutral overall.",Indifferent,Meh
+2025-08-19,D003,5.9,"Sleep was okay, nothing special.",Meh,Fine
+2025-08-19,D004,5.8,"Sleep was okay, nothing special.",Neutral,Indifferent
+2025-08-20,D001,6.5,"Average sleep, can't complain.",Fine,Meh
+2025-08-20,D002,7.7,"Some dreams and wake-ups, neutral overall.",Neutral,Anxious
+2025-08-20,D003,7.0,"Not sure, felt half rested half tired.",Fine,Meh
+2025-08-20,D004,6.1,"Some dreams and wake-ups, neutral overall.",Fine,Tired
+2025-08-21,D001,7.3,"Sleep was okay, nothing special.",Fine,Fine
+2025-08-21,D002,3.7,"Sleep was okay, nothing special.",Meh,Content
+2025-08-21,D003,7.6,"Not sure, felt half rested half tired.",Meh,Motivated
+2025-08-21,D004,4.8,"Some dreams and wake-ups, neutral overall.",Meh,Motivated
+2025-08-22,D001,6.1,"Sleep was okay, nothing special.",Fine,Content
+2025-08-22,D002,5.4,"Not sure, felt half rested half tired.",Meh,Indifferent
+2025-08-22,D003,5.2,"Some dreams and wake-ups, neutral overall.",Indifferent,Stressed
+2025-08-22,D004,7.7,"Sleep was okay, nothing special.",Neutral,Anxious
+2025-08-23,D001,6.0,"Not sure, felt half rested half tired.",Indifferent,Tired
+2025-08-23,D002,6.8,"Not sure, felt half rested half tired.",Neutral,Fine
+2025-08-23,D003,6.5,"Not sure, felt half rested half tired.",Neutral,Anxious
+2025-08-23,D004,7.0,"Some dreams and wake-ups, neutral overall.",Meh,Meh
+2025-08-24,D001,6.6,"Sleep was okay, nothing special.",Neutral,Meh
+2025-08-24,D002,5.2,"Sleep was okay, nothing special.",Indifferent,Neutral
+2025-08-24,D003,7.5,"Average sleep, can't complain.",Fine,Tired
+2025-08-24,D004,6.0,"Not sure, felt half rested half tired.",Fine,Meh
+2025-08-25,D001,4.9,"Not sure, felt half rested half tired.",Neutral,Motivated
+2025-08-25,D002,6.1,"Average sleep, can't complain.",Fine,Motivated
+2025-08-25,D003,8.0,"Not sure, felt half rested half tired.",Neutral,Anxious
+2025-08-25,D004,7.4,"Average sleep, can't complain.",Meh,Happy
+2025-08-26,D001,6.2,"Not sure, felt half rested half tired.",Indifferent,Stressed
+2025-08-26,D002,6.2,"Sleep was okay, nothing special.",Indifferent,Tired
+2025-08-26,D003,6.2,"Average sleep, can't complain.",Indifferent,Irritable
+2025-08-26,D004,8.6,"Sleep was okay, nothing special.",Meh,Motivated
+2025-08-27,D001,6.9,"Average sleep, can't complain.",Fine,Stressed
+2025-08-27,D002,6.9,"Average sleep, can't complain.",Fine,Meh
+2025-08-27,D003,7.5,"Sleep was okay, nothing special.",Meh,Irritable
+2025-08-27,D004,6.7,"Some dreams and wake-ups, neutral overall.",Fine,Fine
+2025-08-28,D001,6.2,"Not sure, felt half rested half tired.",Indifferent,Happy
+2025-08-28,D002,6.3,"Some dreams and wake-ups, neutral overall.",Neutral,Tired
+2025-08-28,D003,6.4,"Not sure, felt half rested half tired.",Meh,Neutral
+2025-08-28,D004,6.5,"Sleep was okay, nothing special.",Meh,Energetic
+2025-08-29,D001,7.2,"Some dreams and wake-ups, neutral overall.",Neutral,Energetic
+2025-08-29,D002,6.6,"Sleep was okay, nothing special.",Fine,Happy
+2025-08-29,D003,7.2,"Average sleep, can't complain.",Meh,Tired
+2025-08-29,D004,6.4,"Average sleep, can't complain.",Fine,Neutral
+2025-08-30,D001,6.6,"Not sure, felt half rested half tired.",Neutral,Indifferent
+2025-08-30,D002,4.5,"Sleep was okay, nothing special.",Meh,Stressed
+2025-08-30,D003,7.4,"Not sure, felt half rested half tired.",Fine,Motivated
+2025-08-30,D004,6.8,"Not sure, felt half rested half tired.",Indifferent,Stressed
+2025-08-31,D001,7.5,"Some dreams and wake-ups, neutral overall.",Indifferent,Fine
+2025-08-31,D002,3.6,"Sleep was okay, nothing special.",Indifferent,Happy
+2025-08-31,D003,8.6,"Not sure, felt half rested half tired.",Neutral,Motivated
+2025-08-31,D004,6.4,"Some dreams and wake-ups, neutral overall.",Meh,Indifferent

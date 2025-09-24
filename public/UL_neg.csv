@@ -1,0 +1,369 @@
+date,driver_id,hours_sleep,sleep_quality,start_mood,end_mood
+2025-06-01,D001,4.6,"Very little sleep, felt exhausted waking up.",Stressed,Tired
+2025-06-01,D002,3.9,"Poor sleep, couldn't get comfortable.",Anxious,Tired
+2025-06-01,D003,4.5,"Poor sleep, couldn't get comfortable.",Stressed,Irritable
+2025-06-01,D004,4.9,Could barely sleep due to stress and noise.,Anxious,Tired
+2025-06-02,D001,5.7,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-06-02,D002,5.3,"Poor sleep, couldn't get comfortable.",Anxious,Tired
+2025-06-02,D003,6.2,"Restless night, kept waking up from nightmares.",Stressed,Irritable
+2025-06-02,D004,3.9,Could barely sleep due to stress and noise.,Stressed,Tired
+2025-06-03,D001,5.2,Could barely sleep due to stress and noise.,Stressed,Irritable
+2025-06-03,D002,4.6,"Very little sleep, felt exhausted waking up.",Irritable,Anxious
+2025-06-03,D003,6.3,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-06-03,D004,3.9,"Poor sleep, couldn't get comfortable.",Tired,Tired
+2025-06-04,D001,3.8,"Restless night, kept waking up from nightmares.",Stressed,Tired
+2025-06-04,D002,4.0,Could barely sleep due to stress and noise.,Anxious,Irritable
+2025-06-04,D003,2.8,"Very little sleep, felt exhausted waking up.",Irritable,Irritable
+2025-06-04,D004,4.1,"Very little sleep, felt exhausted waking up.",Anxious,Stressed
+2025-06-05,D001,3.9,Could barely sleep due to stress and noise.,Anxious,Irritable
+2025-06-05,D002,4.6,Could barely sleep due to stress and noise.,Anxious,Irritable
+2025-06-05,D003,4.8,"Poor sleep, couldn't get comfortable.",Tired,Stressed
+2025-06-05,D004,6.0,"Very little sleep, felt exhausted waking up.",Tired,Tired
+2025-06-06,D001,5.3,"Restless night, kept waking up from nightmares.",Anxious,Stressed
+2025-06-06,D002,4.0,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-06-06,D003,3.8,"Poor sleep, couldn't get comfortable.",Tired,Tired
+2025-06-06,D004,4.9,"Very little sleep, felt exhausted waking up.",Irritable,Stressed
+2025-06-07,D001,3.4,"Restless night, kept waking up from nightmares.",Irritable,Stressed
+2025-06-07,D002,6.0,"Poor sleep, couldn't get comfortable.",Tired,Irritable
+2025-06-07,D003,5.4,Could barely sleep due to stress and noise.,Irritable,Tired
+2025-06-07,D004,4.1,"Very little sleep, felt exhausted waking up.",Tired,Anxious
+2025-06-08,D001,3.1,"Very little sleep, felt exhausted waking up.",Irritable,Irritable
+2025-06-08,D002,5.6,"Poor sleep, couldn't get comfortable.",Tired,Irritable
+2025-06-08,D003,4.4,Could barely sleep due to stress and noise.,Anxious,Stressed
+2025-06-08,D004,5.5,"Very little sleep, felt exhausted waking up.",Anxious,Tired
+2025-06-09,D001,3.2,"Very little sleep, felt exhausted waking up.",Tired,Stressed
+2025-06-09,D002,4.0,"Very little sleep, felt exhausted waking up.",Irritable,Tired
+2025-06-09,D003,4.5,"Very little sleep, felt exhausted waking up.",Anxious,Anxious
+2025-06-09,D004,4.5,"Restless night, kept waking up from nightmares.",Anxious,Stressed
+2025-06-10,D001,4.1,Could barely sleep due to stress and noise.,Tired,Stressed
+2025-06-10,D002,5.0,"Poor sleep, couldn't get comfortable.",Anxious,Stressed
+2025-06-10,D003,3.6,"Restless night, kept waking up from nightmares.",Tired,Stressed
+2025-06-10,D004,4.4,"Poor sleep, couldn't get comfortable.",Stressed,Stressed
+2025-06-11,D001,4.6,"Restless night, kept waking up from nightmares.",Tired,Stressed
+2025-06-11,D002,4.9,"Very little sleep, felt exhausted waking up.",Irritable,Irritable
+2025-06-11,D003,5.1,"Poor sleep, couldn't get comfortable.",Anxious,Stressed
+2025-06-11,D004,3.6,"Very little sleep, felt exhausted waking up.",Tired,Irritable
+2025-06-12,D001,3.3,"Very little sleep, felt exhausted waking up.",Anxious,Anxious
+2025-06-12,D002,5.5,Could barely sleep due to stress and noise.,Anxious,Tired
+2025-06-12,D003,4.8,"Poor sleep, couldn't get comfortable.",Irritable,Irritable
+2025-06-12,D004,3.9,Could barely sleep due to stress and noise.,Tired,Anxious
+2025-06-13,D001,5.7,"Poor sleep, couldn't get comfortable.",Tired,Tired
+2025-06-13,D002,4.6,"Very little sleep, felt exhausted waking up.",Irritable,Tired
+2025-06-13,D003,5.4,"Very little sleep, felt exhausted waking up.",Stressed,Anxious
+2025-06-13,D004,4.6,"Very little sleep, felt exhausted waking up.",Stressed,Tired
+2025-06-14,D001,6.1,"Very little sleep, felt exhausted waking up.",Tired,Anxious
+2025-06-14,D002,5.9,Could barely sleep due to stress and noise.,Stressed,Tired
+2025-06-14,D003,4.3,"Restless night, kept waking up from nightmares.",Irritable,Irritable
+2025-06-14,D004,5.3,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-06-15,D001,5.0,"Poor sleep, couldn't get comfortable.",Irritable,Irritable
+2025-06-15,D002,5.6,"Poor sleep, couldn't get comfortable.",Tired,Anxious
+2025-06-15,D003,3.7,Could barely sleep due to stress and noise.,Anxious,Tired
+2025-06-15,D004,5.0,"Very little sleep, felt exhausted waking up.",Anxious,Anxious
+2025-06-16,D001,5.3,"Restless night, kept waking up from nightmares.",Anxious,Tired
+2025-06-16,D002,3.1,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-06-16,D003,3.6,"Very little sleep, felt exhausted waking up.",Stressed,Tired
+2025-06-16,D004,2.9,"Poor sleep, couldn't get comfortable.",Irritable,Anxious
+2025-06-17,D001,4.3,"Restless night, kept waking up from nightmares.",Tired,Irritable
+2025-06-17,D002,5.1,"Poor sleep, couldn't get comfortable.",Tired,Anxious
+2025-06-17,D003,5.7,"Poor sleep, couldn't get comfortable.",Stressed,Stressed
+2025-06-17,D004,4.6,"Poor sleep, couldn't get comfortable.",Irritable,Stressed
+2025-06-18,D001,5.8,"Restless night, kept waking up from nightmares.",Stressed,Stressed
+2025-06-18,D002,3.4,Could barely sleep due to stress and noise.,Anxious,Tired
+2025-06-18,D003,3.1,Could barely sleep due to stress and noise.,Anxious,Stressed
+2025-06-18,D004,4.5,"Very little sleep, felt exhausted waking up.",Stressed,Stressed
+2025-06-19,D001,4.8,"Restless night, kept waking up from nightmares.",Stressed,Irritable
+2025-06-19,D002,4.5,Could barely sleep due to stress and noise.,Irritable,Anxious
+2025-06-19,D003,2.8,"Restless night, kept waking up from nightmares.",Irritable,Anxious
+2025-06-19,D004,4.4,"Very little sleep, felt exhausted waking up.",Stressed,Stressed
+2025-06-20,D001,3.5,"Poor sleep, couldn't get comfortable.",Irritable,Stressed
+2025-06-20,D002,5.0,"Poor sleep, couldn't get comfortable.",Irritable,Irritable
+2025-06-20,D003,4.8,"Poor sleep, couldn't get comfortable.",Irritable,Irritable
+2025-06-20,D004,3.7,"Restless night, kept waking up from nightmares.",Stressed,Stressed
+2025-06-21,D001,4.1,"Poor sleep, couldn't get comfortable.",Tired,Irritable
+2025-06-21,D002,3.7,"Poor sleep, couldn't get comfortable.",Tired,Tired
+2025-06-21,D003,4.4,"Poor sleep, couldn't get comfortable.",Tired,Stressed
+2025-06-21,D004,5.3,"Poor sleep, couldn't get comfortable.",Irritable,Stressed
+2025-06-22,D001,3.7,"Very little sleep, felt exhausted waking up.",Tired,Stressed
+2025-06-22,D002,4.9,"Very little sleep, felt exhausted waking up.",Anxious,Tired
+2025-06-22,D003,4.1,"Very little sleep, felt exhausted waking up.",Tired,Irritable
+2025-06-22,D004,3.9,"Poor sleep, couldn't get comfortable.",Stressed,Irritable
+2025-06-23,D001,4.4,Could barely sleep due to stress and noise.,Anxious,Stressed
+2025-06-23,D002,3.7,Could barely sleep due to stress and noise.,Anxious,Tired
+2025-06-23,D003,4.1,"Poor sleep, couldn't get comfortable.",Stressed,Stressed
+2025-06-23,D004,3.5,Could barely sleep due to stress and noise.,Anxious,Irritable
+2025-06-24,D001,6.1,"Restless night, kept waking up from nightmares.",Irritable,Irritable
+2025-06-24,D002,4.5,Could barely sleep due to stress and noise.,Tired,Tired
+2025-06-24,D003,3.9,"Poor sleep, couldn't get comfortable.",Stressed,Stressed
+2025-06-24,D004,4.7,"Very little sleep, felt exhausted waking up.",Tired,Anxious
+2025-06-25,D001,4.4,"Restless night, kept waking up from nightmares.",Anxious,Tired
+2025-06-25,D002,4.3,Could barely sleep due to stress and noise.,Stressed,Irritable
+2025-06-25,D003,5.0,"Very little sleep, felt exhausted waking up.",Tired,Tired
+2025-06-25,D004,5.1,"Very little sleep, felt exhausted waking up.",Tired,Stressed
+2025-06-26,D001,4.1,"Restless night, kept waking up from nightmares.",Anxious,Irritable
+2025-06-26,D002,4.0,Could barely sleep due to stress and noise.,Anxious,Stressed
+2025-06-26,D003,4.3,"Very little sleep, felt exhausted waking up.",Stressed,Tired
+2025-06-26,D004,2.7,"Poor sleep, couldn't get comfortable.",Tired,Tired
+2025-06-27,D001,3.3,"Very little sleep, felt exhausted waking up.",Irritable,Tired
+2025-06-27,D002,5.6,"Very little sleep, felt exhausted waking up.",Anxious,Anxious
+2025-06-27,D003,5.8,Could barely sleep due to stress and noise.,Anxious,Tired
+2025-06-27,D004,4.3,"Poor sleep, couldn't get comfortable.",Stressed,Tired
+2025-06-28,D001,5.0,"Poor sleep, couldn't get comfortable.",Stressed,Tired
+2025-06-28,D002,4.7,"Poor sleep, couldn't get comfortable.",Anxious,Stressed
+2025-06-28,D003,7.0,"Very little sleep, felt exhausted waking up.",Irritable,Stressed
+2025-06-28,D004,5.4,"Restless night, kept waking up from nightmares.",Tired,Irritable
+2025-06-29,D001,4.4,Could barely sleep due to stress and noise.,Anxious,Stressed
+2025-06-29,D002,3.7,Could barely sleep due to stress and noise.,Stressed,Tired
+2025-06-29,D003,3.2,"Poor sleep, couldn't get comfortable.",Anxious,Irritable
+2025-06-29,D004,4.7,"Very little sleep, felt exhausted waking up.",Anxious,Tired
+2025-06-30,D001,3.9,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-06-30,D002,3.4,Could barely sleep due to stress and noise.,Anxious,Anxious
+2025-06-30,D003,4.0,Could barely sleep due to stress and noise.,Anxious,Irritable
+2025-06-30,D004,3.6,"Very little sleep, felt exhausted waking up.",Irritable,Irritable
+2025-07-01,D001,5.8,"Poor sleep, couldn't get comfortable.",Stressed,Irritable
+2025-07-01,D002,5.2,"Very little sleep, felt exhausted waking up.",Anxious,Anxious
+2025-07-01,D003,4.5,Could barely sleep due to stress and noise.,Irritable,Tired
+2025-07-01,D004,5.7,"Very little sleep, felt exhausted waking up.",Stressed,Anxious
+2025-07-02,D001,4.6,"Poor sleep, couldn't get comfortable.",Tired,Tired
+2025-07-02,D002,3.8,"Poor sleep, couldn't get comfortable.",Anxious,Anxious
+2025-07-02,D003,5.7,"Very little sleep, felt exhausted waking up.",Irritable,Stressed
+2025-07-02,D004,4.9,"Very little sleep, felt exhausted waking up.",Anxious,Irritable
+2025-07-03,D001,3.7,Could barely sleep due to stress and noise.,Anxious,Irritable
+2025-07-03,D002,4.3,"Poor sleep, couldn't get comfortable.",Tired,Tired
+2025-07-03,D003,3.8,"Very little sleep, felt exhausted waking up.",Anxious,Stressed
+2025-07-03,D004,3.4,Could barely sleep due to stress and noise.,Stressed,Irritable
+2025-07-04,D001,5.2,Could barely sleep due to stress and noise.,Stressed,Tired
+2025-07-04,D002,6.0,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-07-04,D003,3.4,"Very little sleep, felt exhausted waking up.",Tired,Stressed
+2025-07-04,D004,5.0,"Very little sleep, felt exhausted waking up.",Anxious,Anxious
+2025-07-05,D001,4.0,"Very little sleep, felt exhausted waking up.",Tired,Stressed
+2025-07-05,D002,4.1,"Poor sleep, couldn't get comfortable.",Irritable,Anxious
+2025-07-05,D003,4.0,"Poor sleep, couldn't get comfortable.",Stressed,Tired
+2025-07-05,D004,3.8,Could barely sleep due to stress and noise.,Stressed,Irritable
+2025-07-06,D001,4.5,"Very little sleep, felt exhausted waking up.",Tired,Anxious
+2025-07-06,D002,3.8,"Poor sleep, couldn't get comfortable.",Irritable,Stressed
+2025-07-06,D003,4.7,"Poor sleep, couldn't get comfortable.",Irritable,Stressed
+2025-07-06,D004,4.5,Could barely sleep due to stress and noise.,Stressed,Tired
+2025-07-07,D001,4.3,"Very little sleep, felt exhausted waking up.",Stressed,Irritable
+2025-07-07,D002,3.8,Could barely sleep due to stress and noise.,Anxious,Anxious
+2025-07-07,D003,4.0,Could barely sleep due to stress and noise.,Anxious,Anxious
+2025-07-07,D004,5.1,"Restless night, kept waking up from nightmares.",Stressed,Anxious
+2025-07-08,D001,4.9,"Restless night, kept waking up from nightmares.",Tired,Stressed
+2025-07-08,D002,3.7,"Restless night, kept waking up from nightmares.",Stressed,Irritable
+2025-07-08,D003,4.6,Could barely sleep due to stress and noise.,Anxious,Anxious
+2025-07-08,D004,5.1,"Very little sleep, felt exhausted waking up.",Stressed,Tired
+2025-07-09,D001,3.2,Could barely sleep due to stress and noise.,Anxious,Irritable
+2025-07-09,D002,4.9,"Very little sleep, felt exhausted waking up.",Irritable,Irritable
+2025-07-09,D003,4.0,Could barely sleep due to stress and noise.,Stressed,Anxious
+2025-07-09,D004,5.0,Could barely sleep due to stress and noise.,Irritable,Irritable
+2025-07-10,D001,3.9,"Poor sleep, couldn't get comfortable.",Stressed,Stressed
+2025-07-10,D002,3.1,"Restless night, kept waking up from nightmares.",Irritable,Tired
+2025-07-10,D003,3.2,Could barely sleep due to stress and noise.,Stressed,Anxious
+2025-07-10,D004,4.5,"Restless night, kept waking up from nightmares.",Stressed,Anxious
+2025-07-11,D001,4.7,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-07-11,D002,3.8,Could barely sleep due to stress and noise.,Anxious,Stressed
+2025-07-11,D003,5.0,"Poor sleep, couldn't get comfortable.",Stressed,Anxious
+2025-07-11,D004,3.2,Could barely sleep due to stress and noise.,Stressed,Stressed
+2025-07-12,D001,4.4,"Restless night, kept waking up from nightmares.",Anxious,Tired
+2025-07-12,D002,3.5,Could barely sleep due to stress and noise.,Tired,Tired
+2025-07-12,D003,4.0,"Poor sleep, couldn't get comfortable.",Stressed,Irritable
+2025-07-12,D004,4.5,Could barely sleep due to stress and noise.,Irritable,Anxious
+2025-07-13,D001,3.8,"Poor sleep, couldn't get comfortable.",Irritable,Stressed
+2025-07-13,D002,4.2,"Very little sleep, felt exhausted waking up.",Anxious,Irritable
+2025-07-13,D003,5.3,Could barely sleep due to stress and noise.,Tired,Stressed
+2025-07-13,D004,4.0,"Very little sleep, felt exhausted waking up.",Irritable,Irritable
+2025-07-14,D001,5.2,"Very little sleep, felt exhausted waking up.",Stressed,Anxious
+2025-07-14,D002,3.6,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-07-14,D003,4.9,"Poor sleep, couldn't get comfortable.",Irritable,Stressed
+2025-07-14,D004,5.7,"Poor sleep, couldn't get comfortable.",Tired,Anxious
+2025-07-15,D001,2.5,"Restless night, kept waking up from nightmares.",Irritable,Tired
+2025-07-15,D002,3.9,"Poor sleep, couldn't get comfortable.",Irritable,Stressed
+2025-07-15,D003,5.0,"Restless night, kept waking up from nightmares.",Tired,Tired
+2025-07-15,D004,4.3,"Poor sleep, couldn't get comfortable.",Irritable,Irritable
+2025-07-16,D001,4.8,"Restless night, kept waking up from nightmares.",Stressed,Anxious
+2025-07-16,D002,4.0,"Poor sleep, couldn't get comfortable.",Stressed,Stressed
+2025-07-16,D003,4.6,"Very little sleep, felt exhausted waking up.",Irritable,Irritable
+2025-07-16,D004,4.4,"Poor sleep, couldn't get comfortable.",Irritable,Tired
+2025-07-17,D001,5.4,Could barely sleep due to stress and noise.,Irritable,Irritable
+2025-07-17,D002,4.7,"Restless night, kept waking up from nightmares.",Stressed,Anxious
+2025-07-17,D003,4.8,Could barely sleep due to stress and noise.,Tired,Anxious
+2025-07-17,D004,4.2,"Very little sleep, felt exhausted waking up.",Irritable,Anxious
+2025-07-18,D001,4.1,Could barely sleep due to stress and noise.,Tired,Irritable
+2025-07-18,D002,4.2,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-07-18,D003,4.8,"Very little sleep, felt exhausted waking up.",Anxious,Tired
+2025-07-18,D004,4.2,"Very little sleep, felt exhausted waking up.",Tired,Stressed
+2025-07-19,D001,4.7,"Poor sleep, couldn't get comfortable.",Anxious,Tired
+2025-07-19,D002,6.2,"Very little sleep, felt exhausted waking up.",Irritable,Anxious
+2025-07-19,D003,5.2,Could barely sleep due to stress and noise.,Stressed,Tired
+2025-07-19,D004,4.2,"Very little sleep, felt exhausted waking up.",Anxious,Anxious
+2025-07-20,D001,5.5,"Poor sleep, couldn't get comfortable.",Stressed,Stressed
+2025-07-20,D002,4.2,"Very little sleep, felt exhausted waking up.",Tired,Tired
+2025-07-20,D003,2.9,Could barely sleep due to stress and noise.,Stressed,Anxious
+2025-07-20,D004,3.7,"Very little sleep, felt exhausted waking up.",Irritable,Stressed
+2025-07-21,D001,3.0,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-07-21,D002,4.2,"Restless night, kept waking up from nightmares.",Irritable,Anxious
+2025-07-21,D003,4.5,"Poor sleep, couldn't get comfortable.",Irritable,Anxious
+2025-07-21,D004,5.8,"Very little sleep, felt exhausted waking up.",Tired,Anxious
+2025-07-22,D001,4.8,"Poor sleep, couldn't get comfortable.",Tired,Irritable
+2025-07-22,D002,4.3,"Poor sleep, couldn't get comfortable.",Tired,Irritable
+2025-07-22,D003,5.2,"Poor sleep, couldn't get comfortable.",Stressed,Tired
+2025-07-22,D004,2.7,"Very little sleep, felt exhausted waking up.",Stressed,Irritable
+2025-07-23,D001,4.7,"Restless night, kept waking up from nightmares.",Stressed,Tired
+2025-07-23,D002,5.1,Could barely sleep due to stress and noise.,Stressed,Tired
+2025-07-23,D003,3.3,"Very little sleep, felt exhausted waking up.",Anxious,Irritable
+2025-07-23,D004,5.4,"Restless night, kept waking up from nightmares.",Irritable,Stressed
+2025-07-24,D001,4.8,"Very little sleep, felt exhausted waking up.",Irritable,Tired
+2025-07-24,D002,4.2,"Restless night, kept waking up from nightmares.",Stressed,Anxious
+2025-07-24,D003,5.0,"Very little sleep, felt exhausted waking up.",Irritable,Anxious
+2025-07-24,D004,6.3,"Restless night, kept waking up from nightmares.",Irritable,Anxious
+2025-07-25,D001,4.6,"Poor sleep, couldn't get comfortable.",Anxious,Irritable
+2025-07-25,D002,4.7,"Restless night, kept waking up from nightmares.",Stressed,Anxious
+2025-07-25,D003,4.1,"Poor sleep, couldn't get comfortable.",Stressed,Anxious
+2025-07-25,D004,3.8,"Poor sleep, couldn't get comfortable.",Stressed,Irritable
+2025-07-26,D001,5.2,"Poor sleep, couldn't get comfortable.",Irritable,Anxious
+2025-07-26,D002,3.8,"Poor sleep, couldn't get comfortable.",Anxious,Tired
+2025-07-26,D003,4.6,"Very little sleep, felt exhausted waking up.",Irritable,Anxious
+2025-07-26,D004,4.1,"Restless night, kept waking up from nightmares.",Anxious,Tired
+2025-07-27,D001,4.9,"Poor sleep, couldn't get comfortable.",Tired,Anxious
+2025-07-27,D002,4.8,"Very little sleep, felt exhausted waking up.",Anxious,Irritable
+2025-07-27,D003,5.3,"Restless night, kept waking up from nightmares.",Stressed,Anxious
+2025-07-27,D004,4.1,"Poor sleep, couldn't get comfortable.",Stressed,Tired
+2025-07-28,D001,4.3,"Restless night, kept waking up from nightmares.",Stressed,Tired
+2025-07-28,D002,3.7,"Restless night, kept waking up from nightmares.",Stressed,Tired
+2025-07-28,D003,4.1,Could barely sleep due to stress and noise.,Irritable,Anxious
+2025-07-28,D004,4.8,"Very little sleep, felt exhausted waking up.",Tired,Stressed
+2025-07-29,D001,5.1,Could barely sleep due to stress and noise.,Stressed,Irritable
+2025-07-29,D002,3.8,"Very little sleep, felt exhausted waking up.",Irritable,Stressed
+2025-07-29,D003,5.2,"Poor sleep, couldn't get comfortable.",Anxious,Anxious
+2025-07-29,D004,5.6,Could barely sleep due to stress and noise.,Tired,Stressed
+2025-07-30,D001,4.8,Could barely sleep due to stress and noise.,Stressed,Irritable
+2025-07-30,D002,6.0,"Restless night, kept waking up from nightmares.",Tired,Irritable
+2025-07-30,D003,3.9,"Very little sleep, felt exhausted waking up.",Stressed,Anxious
+2025-07-30,D004,3.5,Could barely sleep due to stress and noise.,Tired,Anxious
+2025-07-31,D001,3.1,Could barely sleep due to stress and noise.,Anxious,Anxious
+2025-07-31,D002,5.7,"Very little sleep, felt exhausted waking up.",Irritable,Stressed
+2025-07-31,D003,5.0,"Very little sleep, felt exhausted waking up.",Anxious,Stressed
+2025-07-31,D004,4.5,Could barely sleep due to stress and noise.,Anxious,Stressed
+2025-08-01,D001,4.7,"Very little sleep, felt exhausted waking up.",Anxious,Stressed
+2025-08-01,D002,3.6,Could barely sleep due to stress and noise.,Anxious,Anxious
+2025-08-01,D003,6.5,"Restless night, kept waking up from nightmares.",Stressed,Irritable
+2025-08-01,D004,4.6,"Very little sleep, felt exhausted waking up.",Anxious,Tired
+2025-08-02,D001,4.6,"Very little sleep, felt exhausted waking up.",Tired,Stressed
+2025-08-02,D002,5.1,"Restless night, kept waking up from nightmares.",Irritable,Anxious
+2025-08-02,D003,4.9,"Restless night, kept waking up from nightmares.",Tired,Anxious
+2025-08-02,D004,4.7,"Very little sleep, felt exhausted waking up.",Stressed,Irritable
+2025-08-03,D001,3.9,"Poor sleep, couldn't get comfortable.",Anxious,Anxious
+2025-08-03,D002,4.9,Could barely sleep due to stress and noise.,Anxious,Anxious
+2025-08-03,D003,6.0,"Restless night, kept waking up from nightmares.",Tired,Tired
+2025-08-03,D004,5.6,"Very little sleep, felt exhausted waking up.",Anxious,Stressed
+2025-08-04,D001,5.8,"Very little sleep, felt exhausted waking up.",Anxious,Tired
+2025-08-04,D002,4.1,"Poor sleep, couldn't get comfortable.",Anxious,Stressed
+2025-08-04,D003,3.7,"Restless night, kept waking up from nightmares.",Stressed,Irritable
+2025-08-04,D004,4.4,"Restless night, kept waking up from nightmares.",Irritable,Anxious
+2025-08-05,D001,4.5,"Very little sleep, felt exhausted waking up.",Irritable,Stressed
+2025-08-05,D002,5.4,"Restless night, kept waking up from nightmares.",Tired,Irritable
+2025-08-05,D003,3.1,"Poor sleep, couldn't get comfortable.",Tired,Tired
+2025-08-05,D004,5.7,Could barely sleep due to stress and noise.,Stressed,Stressed
+2025-08-06,D001,4.4,"Restless night, kept waking up from nightmares.",Anxious,Irritable
+2025-08-06,D002,4.2,Could barely sleep due to stress and noise.,Stressed,Irritable
+2025-08-06,D003,3.7,Could barely sleep due to stress and noise.,Irritable,Tired
+2025-08-06,D004,3.2,"Very little sleep, felt exhausted waking up.",Stressed,Irritable
+2025-08-07,D001,5.2,"Very little sleep, felt exhausted waking up.",Tired,Irritable
+2025-08-07,D002,4.6,"Poor sleep, couldn't get comfortable.",Tired,Irritable
+2025-08-07,D003,3.5,"Poor sleep, couldn't get comfortable.",Tired,Stressed
+2025-08-07,D004,3.5,Could barely sleep due to stress and noise.,Tired,Irritable
+2025-08-08,D001,4.2,"Poor sleep, couldn't get comfortable.",Tired,Tired
+2025-08-08,D002,5.8,Could barely sleep due to stress and noise.,Irritable,Tired
+2025-08-08,D003,4.3,"Poor sleep, couldn't get comfortable.",Irritable,Stressed
+2025-08-08,D004,3.3,"Restless night, kept waking up from nightmares.",Irritable,Anxious
+2025-08-09,D001,4.3,"Very little sleep, felt exhausted waking up.",Irritable,Irritable
+2025-08-09,D002,4.3,"Very little sleep, felt exhausted waking up.",Tired,Stressed
+2025-08-09,D003,2.3,"Poor sleep, couldn't get comfortable.",Tired,Stressed
+2025-08-09,D004,4.5,"Very little sleep, felt exhausted waking up.",Stressed,Stressed
+2025-08-10,D001,4.3,Could barely sleep due to stress and noise.,Tired,Anxious
+2025-08-10,D002,5.1,"Very little sleep, felt exhausted waking up.",Irritable,Irritable
+2025-08-10,D003,6.0,"Restless night, kept waking up from nightmares.",Stressed,Irritable
+2025-08-10,D004,5.4,"Poor sleep, couldn't get comfortable.",Stressed,Anxious
+2025-08-11,D001,4.3,"Restless night, kept waking up from nightmares.",Tired,Tired
+2025-08-11,D002,3.6,"Very little sleep, felt exhausted waking up.",Tired,Stressed
+2025-08-11,D003,6.6,"Restless night, kept waking up from nightmares.",Tired,Tired
+2025-08-11,D004,4.5,Could barely sleep due to stress and noise.,Irritable,Tired
+2025-08-12,D001,4.5,"Restless night, kept waking up from nightmares.",Tired,Irritable
+2025-08-12,D002,4.5,"Very little sleep, felt exhausted waking up.",Stressed,Stressed
+2025-08-12,D003,4.7,Could barely sleep due to stress and noise.,Stressed,Anxious
+2025-08-12,D004,4.4,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-08-13,D001,4.0,"Restless night, kept waking up from nightmares.",Anxious,Stressed
+2025-08-13,D002,4.1,"Restless night, kept waking up from nightmares.",Irritable,Anxious
+2025-08-13,D003,4.5,"Poor sleep, couldn't get comfortable.",Tired,Stressed
+2025-08-13,D004,4.1,"Very little sleep, felt exhausted waking up.",Irritable,Tired
+2025-08-14,D001,3.9,"Poor sleep, couldn't get comfortable.",Irritable,Anxious
+2025-08-14,D002,4.6,"Very little sleep, felt exhausted waking up.",Irritable,Stressed
+2025-08-14,D003,4.3,"Poor sleep, couldn't get comfortable.",Irritable,Stressed
+2025-08-14,D004,5.7,"Very little sleep, felt exhausted waking up.",Stressed,Stressed
+2025-08-15,D001,2.4,"Poor sleep, couldn't get comfortable.",Stressed,Irritable
+2025-08-15,D002,5.4,Could barely sleep due to stress and noise.,Irritable,Irritable
+2025-08-15,D003,5.5,"Restless night, kept waking up from nightmares.",Irritable,Stressed
+2025-08-15,D004,2.8,"Poor sleep, couldn't get comfortable.",Stressed,Anxious
+2025-08-16,D001,4.2,Could barely sleep due to stress and noise.,Irritable,Anxious
+2025-08-16,D002,4.2,Could barely sleep due to stress and noise.,Stressed,Tired
+2025-08-16,D003,3.4,"Poor sleep, couldn't get comfortable.",Irritable,Tired
+2025-08-16,D004,3.9,Could barely sleep due to stress and noise.,Stressed,Stressed
+2025-08-17,D001,3.6,"Very little sleep, felt exhausted waking up.",Stressed,Anxious
+2025-08-17,D002,5.9,"Poor sleep, couldn't get comfortable.",Tired,Stressed
+2025-08-17,D003,5.2,"Restless night, kept waking up from nightmares.",Tired,Irritable
+2025-08-17,D004,5.5,"Restless night, kept waking up from nightmares.",Stressed,Irritable
+2025-08-18,D001,5.1,"Restless night, kept waking up from nightmares.",Anxious,Anxious
+2025-08-18,D002,3.6,"Very little sleep, felt exhausted waking up.",Irritable,Anxious
+2025-08-18,D003,4.1,"Poor sleep, couldn't get comfortable.",Anxious,Anxious
+2025-08-18,D004,4.9,"Very little sleep, felt exhausted waking up.",Irritable,Tired
+2025-08-19,D001,3.5,"Very little sleep, felt exhausted waking up.",Anxious,Stressed
+2025-08-19,D002,5.1,"Poor sleep, couldn't get comfortable.",Anxious,Irritable
+2025-08-19,D003,4.3,Could barely sleep due to stress and noise.,Stressed,Stressed
+2025-08-19,D004,4.2,Could barely sleep due to stress and noise.,Anxious,Irritable
+2025-08-20,D001,5.1,"Poor sleep, couldn't get comfortable.",Stressed,Stressed
+2025-08-20,D002,4.9,"Poor sleep, couldn't get comfortable.",Stressed,Irritable
+2025-08-20,D003,4.2,"Restless night, kept waking up from nightmares.",Irritable,Anxious
+2025-08-20,D004,5.4,"Poor sleep, couldn't get comfortable.",Irritable,Irritable
+2025-08-21,D001,3.6,"Very little sleep, felt exhausted waking up.",Stressed,Anxious
+2025-08-21,D002,5.0,"Restless night, kept waking up from nightmares.",Stressed,Irritable
+2025-08-21,D003,5.0,"Restless night, kept waking up from nightmares.",Tired,Tired
+2025-08-21,D004,4.3,Could barely sleep due to stress and noise.,Tired,Tired
+2025-08-22,D001,4.8,"Very little sleep, felt exhausted waking up.",Stressed,Stressed
+2025-08-22,D002,3.5,Could barely sleep due to stress and noise.,Stressed,Tired
+2025-08-22,D003,5.2,"Restless night, kept waking up from nightmares.",Irritable,Anxious
+2025-08-22,D004,4.4,Could barely sleep due to stress and noise.,Irritable,Irritable
+2025-08-23,D001,4.1,Could barely sleep due to stress and noise.,Tired,Irritable
+2025-08-23,D002,5.3,Could barely sleep due to stress and noise.,Tired,Anxious
+2025-08-23,D003,3.9,"Poor sleep, couldn't get comfortable.",Tired,Irritable
+2025-08-23,D004,3.4,"Restless night, kept waking up from nightmares.",Tired,Tired
+2025-08-24,D001,3.3,"Restless night, kept waking up from nightmares.",Stressed,Stressed
+2025-08-24,D002,5.0,"Poor sleep, couldn't get comfortable.",Anxious,Anxious
+2025-08-24,D003,3.5,"Very little sleep, felt exhausted waking up.",Tired,Anxious
+2025-08-24,D004,5.9,"Very little sleep, felt exhausted waking up.",Irritable,Stressed
+2025-08-25,D001,2.8,"Restless night, kept waking up from nightmares.",Anxious,Tired
+2025-08-25,D002,5.9,Could barely sleep due to stress and noise.,Tired,Irritable
+2025-08-25,D003,4.7,"Very little sleep, felt exhausted waking up.",Irritable,Irritable
+2025-08-25,D004,4.4,Could barely sleep due to stress and noise.,Tired,Stressed
+2025-08-26,D001,4.1,Could barely sleep due to stress and noise.,Irritable,Irritable
+2025-08-26,D002,4.8,"Poor sleep, couldn't get comfortable.",Tired,Tired
+2025-08-26,D003,4.5,"Restless night, kept waking up from nightmares.",Stressed,Irritable
+2025-08-26,D004,5.4,"Poor sleep, couldn't get comfortable.",Tired,Tired
+2025-08-27,D001,4.6,"Poor sleep, couldn't get comfortable.",Tired,Stressed
+2025-08-27,D002,4.6,"Poor sleep, couldn't get comfortable.",Tired,Stressed
+2025-08-27,D003,4.2,"Restless night, kept waking up from nightmares.",Irritable,Tired
+2025-08-27,D004,4.5,"Poor sleep, couldn't get comfortable.",Stressed,Stressed
+2025-08-28,D001,4.7,"Very little sleep, felt exhausted waking up.",Anxious,Irritable
+2025-08-28,D002,3.1,"Restless night, kept waking up from nightmares.",Tired,Anxious
+2025-08-28,D003,3.4,Could barely sleep due to stress and noise.,Tired,Irritable
+2025-08-28,D004,5.1,"Restless night, kept waking up from nightmares.",Tired,Anxious
+2025-08-29,D001,4.6,"Very little sleep, felt exhausted waking up.",Anxious,Tired
+2025-08-29,D002,4.4,"Poor sleep, couldn't get comfortable.",Irritable,Irritable
+2025-08-29,D003,4.5,"Restless night, kept waking up from nightmares.",Anxious,Irritable
+2025-08-29,D004,4.8,"Very little sleep, felt exhausted waking up.",Stressed,Irritable
+2025-08-30,D001,4.1,Could barely sleep due to stress and noise.,Anxious,Stressed
+2025-08-30,D002,3.9,Could barely sleep due to stress and noise.,Tired,Anxious
+2025-08-30,D003,4.7,"Restless night, kept waking up from nightmares.",Irritable,Stressed
+2025-08-30,D004,3.7,"Very little sleep, felt exhausted waking up.",Anxious,Anxious
+2025-08-31,D001,4.8,Could barely sleep due to stress and noise.,Tired,Tired
+2025-08-31,D002,3.1,"Poor sleep, couldn't get comfortable.",Irritable,Anxious
+2025-08-31,D003,5.3,"Poor sleep, couldn't get comfortable.",Tired,Stressed
+2025-08-31,D004,4.9,Could barely sleep due to stress and noise.,Stressed,Irritable

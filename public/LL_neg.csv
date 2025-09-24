@@ -1,0 +1,57 @@
+week_start,week_end,driver_id,vendor_treatment,culture_feedback,appreciation_rating,appreciation_reason
+2025-06-01,2025-06-07,D001,Vendors were hostile and delayed loading.,"DBJ culture was toxic, saw lots of gossip and hostility.",2,No recognition for hard work.
+2025-06-01,2025-06-07,D002,"Felt disrespected by vendors, they were uncooperative.",Leadership showed favoritism and poor communication.,1,No recognition for hard work.
+2025-06-01,2025-06-07,D003,"Vendors were rude and dismissive, long wait times.","No support from colleagues, negative environment.",1,Felt undervalued.
+2025-06-01,2025-06-07,D004,"Poor treatment from vendors, no help provided.","DBJ culture was toxic, saw lots of gossip and hostility.",1,Not appreciated at all.
+2025-06-08,2025-06-14,D001,"Vendors were rude and dismissive, long wait times.","DBJ culture was toxic, saw lots of gossip and hostility.",1,Felt undervalued.
+2025-06-08,2025-06-14,D002,Vendors were hostile and delayed loading.,DBJ values were ignored this week.,1,Poor communication and support.
+2025-06-08,2025-06-14,D003,Vendors were hostile and delayed loading.,Leadership showed favoritism and poor communication.,2,Not appreciated at all.
+2025-06-08,2025-06-14,D004,"Poor treatment from vendors, no help provided.",DBJ values were ignored this week.,1,Poor communication and support.
+2025-06-15,2025-06-21,D001,"Felt disrespected by vendors, they were uncooperative.",DBJ values were ignored this week.,1,Not appreciated at all.
+2025-06-15,2025-06-21,D002,"Poor treatment from vendors, no help provided.","DBJ culture was toxic, saw lots of gossip and hostility.",1,Felt undervalued.
+2025-06-15,2025-06-21,D003,"Felt disrespected by vendors, they were uncooperative.",Leadership showed favoritism and poor communication.,3,No recognition for hard work.
+2025-06-15,2025-06-21,D004,"Poor treatment from vendors, no help provided.",DBJ values were ignored this week.,3,No recognition for hard work.
+2025-06-22,2025-06-28,D001,"Vendors were rude and dismissive, long wait times.",DBJ values were ignored this week.,2,Felt undervalued.
+2025-06-22,2025-06-28,D002,"Poor treatment from vendors, no help provided.",Leadership showed favoritism and poor communication.,1,Not appreciated at all.
+2025-06-22,2025-06-28,D003,"Vendors were rude and dismissive, long wait times.","DBJ culture was toxic, saw lots of gossip and hostility.",4,No recognition for hard work.
+2025-06-22,2025-06-28,D004,"Vendors were rude and dismissive, long wait times.","DBJ culture was toxic, saw lots of gossip and hostility.",1,Poor communication and support.
+2025-06-29,2025-07-05,D001,"Felt disrespected by vendors, they were uncooperative.",DBJ values were ignored this week.,3,Poor communication and support.
+2025-06-29,2025-07-05,D002,Vendors were hostile and delayed loading.,"DBJ culture was toxic, saw lots of gossip and hostility.",1,No recognition for hard work.
+2025-06-29,2025-07-05,D003,"Vendors were rude and dismissive, long wait times.","No support from colleagues, negative environment.",3,Poor communication and support.
+2025-06-29,2025-07-05,D004,Vendors were hostile and delayed loading.,"DBJ culture was toxic, saw lots of gossip and hostility.",1,Not appreciated at all.
+2025-07-06,2025-07-12,D001,"Vendors were rude and dismissive, long wait times.",Leadership showed favoritism and poor communication.,2,Poor communication and support.
+2025-07-06,2025-07-12,D002,"Poor treatment from vendors, no help provided.",DBJ values were ignored this week.,3,Not appreciated at all.
+2025-07-06,2025-07-12,D003,"Poor treatment from vendors, no help provided.","No support from colleagues, negative environment.",2,Not appreciated at all.
+2025-07-06,2025-07-12,D004,Vendors were hostile and delayed loading.,DBJ values were ignored this week.,4,Poor communication and support.
+2025-07-13,2025-07-19,D001,Vendors were hostile and delayed loading.,DBJ values were ignored this week.,4,No recognition for hard work.
+2025-07-13,2025-07-19,D002,"Vendors were rude and dismissive, long wait times.",Leadership showed favoritism and poor communication.,1,No recognition for hard work.
+2025-07-13,2025-07-19,D003,"Vendors were rude and dismissive, long wait times.",DBJ values were ignored this week.,4,Felt undervalued.
+2025-07-13,2025-07-19,D004,"Felt disrespected by vendors, they were uncooperative.",DBJ values were ignored this week.,3,Not appreciated at all.
+2025-07-20,2025-07-26,D001,"Felt disrespected by vendors, they were uncooperative.",DBJ values were ignored this week.,4,Not appreciated at all.
+2025-07-20,2025-07-26,D002,Vendors were hostile and delayed loading.,DBJ values were ignored this week.,1,Not appreciated at all.
+2025-07-20,2025-07-26,D003,"Poor treatment from vendors, no help provided.","No support from colleagues, negative environment.",1,No recognition for hard work.
+2025-07-20,2025-07-26,D004,"Poor treatment from vendors, no help provided.","DBJ culture was toxic, saw lots of gossip and hostility.",4,No recognition for hard work.
+2025-07-27,2025-08-02,D001,Vendors were hostile and delayed loading.,"No support from colleagues, negative environment.",4,No recognition for hard work.
+2025-07-27,2025-08-02,D002,"Vendors were rude and dismissive, long wait times.","DBJ culture was toxic, saw lots of gossip and hostility.",2,Felt undervalued.
+2025-07-27,2025-08-02,D003,Vendors were hostile and delayed loading.,Leadership showed favoritism and poor communication.,1,Felt undervalued.
+2025-07-27,2025-08-02,D004,"Poor treatment from vendors, no help provided.",Leadership showed favoritism and poor communication.,3,Poor communication and support.
+2025-08-03,2025-08-09,D001,"Vendors were rude and dismissive, long wait times.",Leadership showed favoritism and poor communication.,4,Felt undervalued.
+2025-08-03,2025-08-09,D002,"Felt disrespected by vendors, they were uncooperative.","DBJ culture was toxic, saw lots of gossip and hostility.",4,Felt undervalued.
+2025-08-03,2025-08-09,D003,Vendors were hostile and delayed loading.,"DBJ culture was toxic, saw lots of gossip and hostility.",4,Felt undervalued.
+2025-08-03,2025-08-09,D004,"Poor treatment from vendors, no help provided.","DBJ culture was toxic, saw lots of gossip and hostility.",4,Not appreciated at all.
+2025-08-10,2025-08-16,D001,"Vendors were rude and dismissive, long wait times.",DBJ values were ignored this week.,4,Not appreciated at all.
+2025-08-10,2025-08-16,D002,"Vendors were rude and dismissive, long wait times.","DBJ culture was toxic, saw lots of gossip and hostility.",3,No recognition for hard work.
+2025-08-10,2025-08-16,D003,Vendors were hostile and delayed loading.,"No support from colleagues, negative environment.",3,Not appreciated at all.
+2025-08-10,2025-08-16,D004,"Felt disrespected by vendors, they were uncooperative.",DBJ values were ignored this week.,3,Felt undervalued.
+2025-08-17,2025-08-23,D001,"Poor treatment from vendors, no help provided.",DBJ values were ignored this week.,1,Not appreciated at all.
+2025-08-17,2025-08-23,D002,"Felt disrespected by vendors, they were uncooperative.","DBJ culture was toxic, saw lots of gossip and hostility.",3,Poor communication and support.
+2025-08-17,2025-08-23,D003,"Poor treatment from vendors, no help provided.","No support from colleagues, negative environment.",1,Not appreciated at all.
+2025-08-17,2025-08-23,D004,"Felt disrespected by vendors, they were uncooperative.",DBJ values were ignored this week.,2,Felt undervalued.
+2025-08-24,2025-08-30,D001,"Vendors were rude and dismissive, long wait times.","No support from colleagues, negative environment.",2,No recognition for hard work.
+2025-08-24,2025-08-30,D002,"Vendors were rude and dismissive, long wait times.",DBJ values were ignored this week.,2,Felt undervalued.
+2025-08-24,2025-08-30,D003,"Felt disrespected by vendors, they were uncooperative.","No support from colleagues, negative environment.",1,Felt undervalued.
+2025-08-24,2025-08-30,D004,"Vendors were rude and dismissive, long wait times.","DBJ culture was toxic, saw lots of gossip and hostility.",4,Felt undervalued.
+2025-08-31,2025-08-31,D001,"Felt disrespected by vendors, they were uncooperative.",DBJ values were ignored this week.,1,Not appreciated at all.
+2025-08-31,2025-08-31,D002,Vendors were hostile and delayed loading.,DBJ values were ignored this week.,2,No recognition for hard work.
+2025-08-31,2025-08-31,D003,"Felt disrespected by vendors, they were uncooperative.","DBJ culture was toxic, saw lots of gossip and hostility.",4,Poor communication and support.
+2025-08-31,2025-08-31,D004,Vendors were hostile and delayed loading.,DBJ values were ignored this week.,2,Poor communication and support.
