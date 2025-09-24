@@ -81,7 +81,7 @@ class IntegralAgent {
       }
 
       // Read the CSV file content
-      const filePath = `./data/${this.quadrant}_${this.datasetType}.csv`;
+      const filePath = `/${this.quadrant}_${this.datasetType}.csv`;
       const response = await fetch(filePath);
       if (!response.ok) {
         throw new Error(`Failed to load data file: ${filePath}`);
